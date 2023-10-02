@@ -37,7 +37,7 @@ This project utilizes the `pytest` library for testing purposes. The `pytest fra
 ### 1. Clone the repository
 
 ```python
-git clone https://github.com/ArshavineRoy/restaurants-code-challenge
+git clone git@github.com:keowen375/restaurantscode-challenge.git
 ```
 
 ### 2. Navigate to the project's directory
@@ -230,8 +230,3 @@ Write the following methods in the classes in the files provided. Feel free to b
   - returns the average star rating for a restaurant based on its reviews
   - Reminder: you can calculate the average by adding up all the ratings and dividing by the number of ratings
 
-## Author & License
-
-Authored by [Arshavine Waema](https://github.com/ArshavineRoy).
-
-Licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
